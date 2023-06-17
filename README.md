@@ -1,11 +1,11 @@
 (screenshot of ready website will be here)
 
 
-# ERP system aimed for carpentry
+# WoodlyDone - ERP system aimed for carpentry
 
 
 ## Description
-It is a humble project of ERP system for one-person company. Aimed for carpentry, because it is for my own hobby purposes, where after longer break I don't know where I stand. I want to keep all my carpentry data in one place.
+It is a humble project of ERP system for one-person company. Aimed for carpentry, it is for my own hobby purposes, where after longer break I don't know where I stand. I want to keep all my carpentry data in one place and see what already is in stock and plan future projects or already began ones.
 
 ## General Information
 - stock control,
